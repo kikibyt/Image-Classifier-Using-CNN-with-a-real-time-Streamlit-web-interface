@@ -1,6 +1,7 @@
 
 
 # **Handwritten Digit Classifier Using CNN & Streamlit**
+![handwri](https://github.com/user-attachments/assets/cef33151-f4b8-4765-b551-2398c39d6202)
 
 This project uses a **Convolutional Neural Network (CNN)** to classify handwritten digits from the **MNIST dataset**. It also includes a **Streamlit web interface** for real-time predictions, where users can upload an image of a handwritten digit and receive the predicted digit in response.
 
